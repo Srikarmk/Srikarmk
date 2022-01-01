@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 ### About me :
 - Hey there I am Srikar here..Glad you found your way to my profile..!
-- 🔭 I’m currently working on Machine Learning
-- I am a Data science enthusiast and a wannabe full stack developer.
-- Currently i am pursuing my 2nd year of engineering in electronics and communications branch. <br/>
+- 🔭 I’m currently studying Full stack development
+- I am a Machine learning enthusiast and a wannabe full stack developer.
+- Currently i am pursuing my 3rdyear of engineering in electronics and communications branch. <br/>
 <h1>Connect with me!</h1><br/>
 <a href=https://www.linkedin.com/in/sai-srikar-8449941a3/><img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
@@ -33,7 +33,9 @@ Here are some ideas to get you started:
 * Javascript 
 * Python 
 * C
-* MYSQL <br/>
+* MYSQL
+* Mongo DB
+* C++ <br/>
 
 <h1>STATS</h1>
 <img align="left" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Srikarmk&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" /><br/>
