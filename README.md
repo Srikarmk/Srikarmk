@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 #### Python
 [![My Skills](https://skillicons.dev/icons?i=python,flask)](https://skillicons.dev)
 #### Databases
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,sqlite)](https://skillicons.dev)
 
 <h1>STATS</h1>
 <img align="left" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Srikarmk&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" /><br/>
