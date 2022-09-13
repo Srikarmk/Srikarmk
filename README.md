@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ### Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,nodejs)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,nodejs)](https://skillicons.dev)  
 [![My Skills](https://skillicons.dev/icons?i=python,flask)](https://skillicons.dev)
 
 <h1>STATS</h1>
