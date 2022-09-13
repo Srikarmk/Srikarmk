@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <br>
 <br>  <br/>
 
-### Technologies
+### Technologies:
 
 #### Web-Development
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,nodejs)](https://skillicons.dev)  
