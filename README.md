@@ -38,6 +38,6 @@ Here are some ideas to get you started:
 
 <h1>STATS</h1>
 <img align="left" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Srikarmk&&show_icons=true&theme=tokyonight" /><br/>
-<img align="left" alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srikarmk&layout=compact,Srikarmk.github.io" />  <br/>
+<img align="left" alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srikarmk&layout=compact" />  <br/>
 
 
