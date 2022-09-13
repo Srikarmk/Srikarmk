@@ -28,13 +28,13 @@ Here are some ideas to get you started:
 ## Technologies:
 
 #### Web-Development
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,nodejs)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,nodejs)]
 #### Python
-[![My Skills](https://skillicons.dev/icons?i=python,flask,c,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,flask,c,java)]
 #### Databases
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,sqlite)]
 #### Tools
-[![My Skills](https://skillicons.dev/icons?i=vscode,ai,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,ai,git,github)]
 
 <h1>STATS</h1>
 <img align="left" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Srikarmk&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" /><br/>
