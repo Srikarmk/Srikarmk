@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 
 ### About me :
-- Hey there I am Srikar here..Glad you found your way to my profile..!
-- 🔭 I’m currently studying Full stack development
+- Hey there I am Srikar , Glad you found your way to my profile..!
+- 🔭 I’m currently exploring Full stack development (MERN).
 - Currently i am pursuing my Final year of engineering in electronics and communications branch.  
 - I am highly interested in collaborating with developers and making amazing projects , do connect with me if you find my profile matching with what you expect.<br/>
 <h1>Connect with me!</h1>
