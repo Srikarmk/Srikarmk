@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ## My Holopin Badges!! 
-[![@srikarmk's Holopin board](https://holopin.io/api/user/board?user=srikarmk)](https://www.holopin.io/@srikarmk)
+[![@srikarmk's Holopin board](https://holopin.io/api/user/board?user=srikarmk)](https://holopin.io/@srikarmk)
 
 ### About me :
 - Hey there I am Srikar , Glad you found your way to my profile..!
