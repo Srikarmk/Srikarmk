@@ -49,4 +49,5 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=srikarmk&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=srikarmk&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=srikarmk&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+# Github Trophies:
+[![trophy](https://github-profile-trophy.vercel.app/?srikarmk=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
