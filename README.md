@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 #### Web-Development
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwindcss,jquery)
-#### Python
+#### Programming Languages and Frameworks
 ![My Skills](https://skillicons.dev/icons?i=python,flask,c,java)
 #### Databases
 ![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)
