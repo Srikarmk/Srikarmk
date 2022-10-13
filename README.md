@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+![](https://komarev.com/ghpvc/?username=srikarmk&color=blueviolet)
 ## My Holopin Badges!! 
 [![@srikarmk's Holopin board](https://holopin.io/api/user/board?user=srikarmk)](https://holopin.io/@srikarmk)
 
