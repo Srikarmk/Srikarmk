@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 ## Novu Medals 
 <a href="https://novu.co/contributors/Srikarmk/"><img src="https://contributors.novu.co/profiles/Srikarmk-small.jpg" height="170" width="450" alt="" /></a>
 
-![](https://komarev.com/ghpvc/?username=srikarmk&color=blueviolet&plastic)
+
 ## About me :
+![](https://komarev.com/ghpvc/?username=srikarmk&color=blueviolet&plastic)
 - Hey there I am Srikar , Glad you found your way to my profile..!
 - 🔭 I’m currently exploring Full stack development (MERN).
 - Currently i am pursuing my Final year of engineering in electronics and communications branch.  
