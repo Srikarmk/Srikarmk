@@ -34,11 +34,11 @@ Here are some ideas to get you started:
 ## Technologies:
 
 #### Web-Development
-![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwindcss,jquery,nodejs)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwindcss,jquery)
 #### Python
 ![My Skills](https://skillicons.dev/icons?i=python,flask,c,java)
 #### Databases
-![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,sqlite)
+![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)
 #### Tools
 ![My Skills](https://skillicons.dev/icons?i=vscode,ai,git,github)
 
