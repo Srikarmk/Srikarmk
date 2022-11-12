@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 #### Databases
 ![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)
 #### Tools
-![My Skills](https://skillicons.dev/icons?i=vscode,ai,git,github)
+![My Skills](https://skillicons.dev/icons?i=vscode,ai,git,github,postman,docker)
 
 
 # 📊 GitHub Stats:
