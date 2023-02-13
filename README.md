@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 ## Technologies:
 
 #### Web-Development
-![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwindcss,jquery,react,redux)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwindcss,jquery,react,redux,solidity)
 #### Programming Languages and Frameworks
 ![My Skills](https://skillicons.dev/icons?i=c,java,python,flask,django)
 #### Databases
