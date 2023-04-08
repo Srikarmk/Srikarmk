@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=srikarmk&color=blueviolet&plastic)
 ## My Holopin Badges!! 
 [![@srikarmk's Holopin board](https://holopin.io/api/user/board?user=srikarmk)](https://holopin.io/@srikarmk)
 
@@ -6,7 +7,7 @@
 
 
 ## About me :
-![](https://komarev.com/ghpvc/?username=srikarmk&color=blueviolet&plastic)
+
 - Hey there I am Srikar , Glad you found your way to my profile..!
 - 🔭 I’m currently exploring Full stack development (MERN).
 - Currently i am pursuing my Final year of engineering in electronics and communications branch.  
