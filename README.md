@@ -26,7 +26,7 @@
 #### Programming Languages and Frameworks
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,flask,django,rust)
 #### Databases
-![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgresql,redis,firebase,supabase)
+![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgresql,redis,firebase)
 #### Tools
 ![My Skills](https://skillicons.dev/icons?i=vscode,git,github,docker,ai,blender)
 
