@@ -30,6 +30,10 @@
 #### Tools
 ![My Skills](https://skillicons.dev/icons?i=vscode,postman,git,github,docker,ai,blender)
 
+## 📝 My Blogs:
+
+- <a href="https://srikarmk.hashnode.dev/100-days-of-code-a-skill-up-journey">100 Days of Code : A Skill Up Journey !</a>
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=srikarmk&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
