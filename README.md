@@ -22,7 +22,7 @@
 ## Technologies:
 
 #### Web-Development
-![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwindcss,materialui,jquery,react,redux,nodejs,expressjs,solidity)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwindcss,materialui,jquery,react,redux,nodejs,expressjs,solidity,threejs)
 #### Programming Languages and Frameworks
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,flask,django,rust)
 #### Databases
