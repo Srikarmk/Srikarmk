@@ -22,9 +22,9 @@
 ## Technologies:
 
 #### Web-Development
-![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwindcss,materialui,jquery,react,redux,nodejs,expressjs,solidity,threejs)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwindcss,materialui,jquery,react,redux,nodejs,expressjs,next,threejs)
 #### Programming Languages and Frameworks
-![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,flask,django,rust)
+![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,flask,django,rust,solidity)
 #### Databases
 ![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgresql,redis,firebase,supabase)
 #### Tools
