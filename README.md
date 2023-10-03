@@ -1,10 +1,4 @@
 ![](https://komarev.com/ghpvc/?username=srikarmk&color=blueviolet&plastic)
-## My Holopin Badges!! 
-[![@srikarmk's Holopin board](https://holopin.io/api/user/board?user=srikarmk)](https://holopin.io/@srikarmk)
-
-## Novu Medals 
-<a href="https://novu.co/contributors/Srikarmk/"><img src="https://contributors.novu.co/profiles/Srikarmk-small.jpg" height="170" width="450" alt="" /></a>
-
 
 ## About me :
 
@@ -30,6 +24,12 @@
 ![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgresql,redis,firebase,supabase)
 #### Tools
 ![My Skills](https://skillicons.dev/icons?i=vscode,postman,git,github,docker,ai,blender)
+
+## My Holopin Badges!! 
+[![@srikarmk's Holopin board](https://holopin.io/api/user/board?user=srikarmk)](https://holopin.io/@srikarmk)
+
+## Novu Medals 
+<a href="https://novu.co/contributors/Srikarmk/"><img src="https://contributors.novu.co/profiles/Srikarmk-small.jpg" height="170" width="450" alt="" /></a>
 
 ## 📝 My Blogs:
 
