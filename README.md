@@ -26,7 +26,7 @@
 ![My Skills](https://skillicons.dev/icons?i=vscode,postman,git,github,docker,ai,blender)
 
 ## Leetcode Badges !
-![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=Srikarmk)
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=Srikarmk&theme=dracula)
 
 
 
