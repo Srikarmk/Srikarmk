@@ -25,6 +25,11 @@
 #### Tools
 ![My Skills](https://skillicons.dev/icons?i=vscode,postman,git,github,docker,ai,blender)
 
+## Leetcode Badges !
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=Srikarmk)
+
+
+
 ## My Holopin Badges!! 
 [![@srikarmk's Holopin board](https://holopin.io/api/user/board?user=srikarmk)](https://holopin.io/@srikarmk)
 
