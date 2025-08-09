@@ -20,7 +20,7 @@
 ## Technologies:
 
 #### AI and Machine Learning 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,R,numpy,pandas,matplotlib,seaborn,tensorflow,opencv,scipy,fastapi)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,r,numpy,pandas,matplotlib,seaborn,tensorflow,opencv,scipy,fastapi)
 #### Web-Development
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwindcss,materialui,jquery,react,redux,nodejs,expressjs,next,threejs)
 #### Programming Languages and Frameworks
