@@ -1,10 +1,16 @@
 ![](https://komarev.com/ghpvc/?username=srikarmk&color=blueviolet&plastic)
 
+### Hi, I'm Srikar 👋 I build AI tools, then measure how they fail.
+
+<a href="https://pypi.org/project/whygit/"><img alt="whygit on PyPI" src="https://img.shields.io/pypi/v/whygit?label=whygit&color=5b4fc9" /></a>
+<a href="https://pypi.org/project/gitgotchi/"><img alt="gitgotchi on PyPI" src="https://img.shields.io/pypi/v/gitgotchi?label=gitgotchi&color=5b4fc9" /></a>
+<a href="https://registry.modelcontextprotocol.io/v0.1/servers?search=io.github.Srikarmk"><img alt="MCP registry" src="https://img.shields.io/badge/MCP%20registry-whygit%20%C2%B7%20keystone-5b4fc9" /></a>
+<a href="https://www.srikarmk.dev"><img alt="portfolio" src="https://img.shields.io/badge/portfolio-srikarmk.dev-5b4fc9" /></a>
+
 ## About me
 
-- Hey there, I'm Srikar. Glad you found your way here!
 - I'm finishing my M.S. in Data Science at Northeastern University (December 2026) and I'm a teaching assistant for DS 3500, Advanced Programming with Data.
-- I build AI tools and then measure how they fail: retrieval poisoning, stale agent memory, A/B tests that weren't what they seemed.
+- Most of my recent work measures how AI systems fail: retrieval poisoning, stale agent memory, A/B tests that weren't what they seemed.
 - Before this: Data Scientist at Launch Plan (LangGraph and MCP agents, RAG on Pinecone, an Airflow data layer) and Data Engineer / Full Stack Developer at Soverin.
 - Looking for forward-deployed engineer, data scientist and software engineer roles. Portfolio and case studies: **[srikarmk.dev](https://www.srikarmk.dev)**
   <br/>
@@ -18,9 +24,10 @@
 | [**whygit**](https://github.com/Srikarmk/whygit) | A read-only Git explainer, as a CLI and an MCP server. On [PyPI](https://pypi.org/project/whygit/) and in the official MCP registry. `uvx whygit` |
 | [**Keystone**](https://github.com/Srikarmk/Keystone) | What a research paper builds on, disputes and assumes, read straight from its LaTeX with no LLM; 197 papers, with its error rate published. [Live site](https://keystone-research.vercel.app) |
 | [**experiment-forensics**](https://github.com/Srikarmk/experiment-forensics) | A pre-registered re-analysis of 22,743 real A/B tests: peeking, the winner's curse, power and CUPED. [Case study](https://www.srikarmk.dev/projects/experiment-forensics) |
+| [**GitGotchi**](https://github.com/Srikarmk/Gitgotchi) | A pet that lives in your Git repo and grows with how you commit; AI-written commits slowly possess it. On [PyPI](https://pypi.org/project/gitgotchi/). [Case study](https://www.srikarmk.dev/projects/gitgotchi) |
 | [**Duskline**](https://playduskline.vercel.app) | A browser racing game made entirely in code: shader skies, procedural cars, synthesised sound. 33 to 85 fps once I measured the frame. |
 
-More in the series [Measuring LLM Systems](https://www.srikarmk.dev/series/measuring-llm-systems).
+More in the series [Measuring LLM Systems](https://www.srikarmk.dev/series/measuring-llm-systems). Next up: a study of how much answers change when a prompt is rephrased in ways that shouldn't matter.
 
 ## Connect with me!
 <a href="https://www.srikarmk.dev"><img align="left" alt="portfolio" src="https://img.shields.io/badge/srikarmk.dev-5b4fc9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
