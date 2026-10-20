@@ -1,6 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=srikarmk&color=blueviolet&plastic)
 
-### Hi, I'm Srikar 👋 I build AI tools, then measure how they fail.
+### Hi, I'm Srikar 👋
+
+**I build AI tools, then measure how they fail.**
 
 <a href="https://pypi.org/project/whygit/"><img alt="whygit on PyPI" src="https://img.shields.io/pypi/v/whygit?label=whygit&color=5b4fc9" /></a>
 <a href="https://pypi.org/project/gitgotchi/"><img alt="gitgotchi on PyPI" src="https://img.shields.io/pypi/v/gitgotchi?label=gitgotchi&color=5b4fc9" /></a>
