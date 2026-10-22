@@ -23,13 +23,14 @@
 |---|---|
 | [**rag-poisoning**](https://github.com/Srikarmk/rag-poisoning) | One bad passage in 10,000: how far a planted false fact or instruction spreads through a RAG system, on three open LLMs, and what defences cost. [Case study](https://www.srikarmk.dev/projects/rag-poisoning) |
 | [**memory-rot**](https://github.com/Srikarmk/memory-rot) | Do agents with long-term memory answer with stale facts? Seven memory designs, four open models. [Case study](https://www.srikarmk.dev/projects/memory-rot) |
+| [**prompt-brittleness**](https://github.com/Srikarmk/prompt-brittleness) | How often a harmless rewording changes an LLM's answer, and why the best-looking prompt is usually a lucky draw. Three open models. [Case study](https://www.srikarmk.dev/projects/prompt-brittleness) |
 | [**whygit**](https://github.com/Srikarmk/whygit) | A read-only Git explainer, as a CLI and an MCP server. On [PyPI](https://pypi.org/project/whygit/) and in the official MCP registry. `uvx whygit` |
 | [**Keystone**](https://github.com/Srikarmk/Keystone) | What a research paper builds on, disputes and assumes, read straight from its LaTeX with no LLM; 197 papers, with its error rate published. [Live site](https://keystone-research.vercel.app) |
 | [**experiment-forensics**](https://github.com/Srikarmk/experiment-forensics) | A pre-registered re-analysis of 22,743 real A/B tests: peeking, the winner's curse, power and CUPED. [Case study](https://www.srikarmk.dev/projects/experiment-forensics) |
 | [**GitGotchi**](https://github.com/Srikarmk/Gitgotchi) | A pet that lives in your Git repo and grows with how you commit; AI-written commits slowly possess it. On [PyPI](https://pypi.org/project/gitgotchi/). [Case study](https://www.srikarmk.dev/projects/gitgotchi) |
-| [**Duskline**](https://playduskline.vercel.app) | A browser racing game made entirely in code: shader skies, procedural cars, synthesised sound. 33 to 85 fps once I measured the frame. |
+| [**Duskline**](https://playduskline.vercel.app) | A browser racing game made almost entirely in code: shader skies, procedural cars, synthesised engine and music. 33 to 85 fps once I measured the frame. |
 
-More in the series [Measuring LLM Systems](https://www.srikarmk.dev/series/measuring-llm-systems). Next up: a study of how much answers change when a prompt is rephrased in ways that shouldn't matter.
+More in the series [Measuring LLM Systems](https://www.srikarmk.dev/series/measuring-llm-systems).
 
 ## Connect with me!
 <a href="https://www.srikarmk.dev"><img align="left" alt="portfolio" src="https://img.shields.io/badge/srikarmk.dev-5b4fc9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
