@@ -23,6 +23,7 @@
 |---|---|
 | [**rag-poisoning**](https://github.com/Srikarmk/rag-poisoning) | One bad passage in 10,000: how far a planted false fact or instruction spreads through a RAG system, on three open LLMs, and what defences cost. [Case study](https://www.srikarmk.dev/projects/rag-poisoning) |
 | [**memory-rot**](https://github.com/Srikarmk/memory-rot) | Do agents with long-term memory answer with stale facts? Seven memory designs, four open models. [Case study](https://www.srikarmk.dev/projects/memory-rot) |
+| [**llm-judge-bias**](https://github.com/Srikarmk/llm-judge-bias) | What sways an LLM judge: answer order, padding, stated confidence, markdown and its own authorship, on pairs with a known better answer. [Case study](https://www.srikarmk.dev/projects/llm-judge-bias) |
 | [**prompt-brittleness**](https://github.com/Srikarmk/prompt-brittleness) | How often a harmless rewording changes an LLM's answer, and why the best-looking prompt is usually a lucky draw. Three open models. [Case study](https://www.srikarmk.dev/projects/prompt-brittleness) |
 | [**whygit**](https://github.com/Srikarmk/whygit) | A read-only Git explainer, as a CLI and an MCP server. On [PyPI](https://pypi.org/project/whygit/) and in the official MCP registry. `uvx whygit` |
 | [**Keystone**](https://github.com/Srikarmk/Keystone) | What a research paper builds on, disputes and assumes, read straight from its LaTeX with no LLM; 197 papers, with its error rate published. [Live site](https://keystone-research.vercel.app) |
